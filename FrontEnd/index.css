@@ -1,0 +1,88 @@
+body {
+
+    background-color: whitesmoke;
+    display: flex;
+}
+.main{
+    display: block;
+}
+.camera {
+    color: royalblue;
+    display: inline;
+}
+
+.heading {
+    height: 65px;
+    width: 65vw;
+    background-color: burlywood;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0px;
+}
+
+.voil_hed {
+    height: 65px;
+    width: 100%;
+    display: flex;
+    color: aliceblue;
+    background-color: gray;
+    justify-content: center;
+    align-items: center;
+}
+.voilations{
+    width: 65vw;
+    height: 100%;
+
+}
+.voil_body{
+    width:35vw;
+    /* height:max-content; */
+    border: 2.5px rgb(12, 12, 12) solid;
+}
+.voil_tag{
+    /* color: red; */
+    display: flex;
+    border: 2.5px rgb(10, 10, 10) solid;
+}
+.name{
+    padding: 1px 10px;
+    color: blue;
+}
+.numb{
+    padding: 1px 10px;
+}
+.voil{
+    padding: 1px 10px;
+    color: red;
+}
+.main2{
+    display:flex ;
+}
+.camera1{
+        /* width: 300px; */
+        border: 6px solid rgb(9, 9, 9);
+        padding: 0px;
+        margin: 0px;
+}
+.camera2{
+    /* width: 300px; */
+    border: 6px solid rgb(22, 23, 22);
+    padding: 0px;
+    margin: 0px;
+}
+.main3{
+    display: flex;
+}
+.camera3{
+    /* width: 300px; */
+    border: 6px solid rgb(17, 17, 17);
+    padding: 0px;
+    margin: 0px 0px 0px 0px;
+}
+.camera4{
+    /* width: 300px; */
+    border: 6px solid rgb(7, 7, 7);
+    padding: 0px;
+    margin: 0px;
+}
